@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1538640968 source:/home/jiang/icg_cb/hello_world/hello_world/main.cpp
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Box.H>
+
+1536299935 /usr/local/include/FL/Fl.H
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+
+1536299935 /usr/local/include/FL/Fl_Cairo.H
+	<FL/Fl_Export.H>
+	<cairo-xlib.h>
+	<cairo-win32.h>
+	<cairo-quartz.h>
+
+1536299935 /usr/local/include/FL/Fl_Export.H
+
+1536299935 /usr/local/include/FL/fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1536299935 /usr/local/include/FL/fl_types.h
+
+1536299935 /usr/local/include/FL/Enumerations.H
+	"Fl_Export.H"
+	"fl_types.h"
+
+1536299935 /usr/local/include/FL/Fl_Window.H
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1536299935 /usr/local/include/FL/Fl_Group.H
+	"Fl_Widget.H"
+
+1536299935 /usr/local/include/FL/Fl_Widget.H
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1536299935 /usr/local/include/FL/Fl_Bitmap.H
+	"Fl_Image.H"
+
+1536299935 /usr/local/include/FL/Fl_Image.H
+	"Enumerations.H"
+	<stdlib.h>
+
+1536299935 /usr/local/include/FL/Fl_Box.H
+	"Fl_Widget.H"
+
